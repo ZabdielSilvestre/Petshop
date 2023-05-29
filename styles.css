@@ -61,12 +61,43 @@ width: 100vw;
     font-size: 16px;
     font-weight: 400;
 }
+.productos-destacados
+{
+    margin-top: 75vh;
+    margin-left: 25px;
+    color:#3c2313;
+}
+#precio{
+    color:#F0A83E
+}
+.menu-cac{
+    margin-left: 10px;
+}
 .churrasquito{
-margin-top: 75vh;
+margin-top: 50px;
 }
 .huesito{
 margin-top: 50px;
 }
 .comedor{
 margin-top: 50px;
+}
+ul{
+    color:#3c2313;
+}
+footer{
+    background-color:#F0A83E;
+}
+.listado-datos{
+    background-color: #3c2313;
+    margin-bottom: 2    vh;
+}
+.listado{
+    color:#f3f3f3
+}
+.segundo-logo{
+    color:#F0A83E;
+}
+.h2-footer{
+    text-align: center;
 }
